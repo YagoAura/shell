@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Função para exibir o menu
 mostrar_menu() {
     echo "Menu de Backup"
@@ -62,7 +64,6 @@ while true; do
             ;;
     esac
 done
-tem menu de contexto
 
 
-tem menu de contexto
+
